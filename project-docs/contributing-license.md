@@ -1,6 +1,6 @@
 # Contributor License Agreement
 
-You must sign a [.NET Foundation Contribution License Agreement (CLA)](https://cla2.dotnetfoundation.org) before your Pull Request will be merged. This is a one-time requirement for projects in the .NET Foundation. You can read more about [Contribution License Agreements (CLA)](https://en.wikipedia.org/wiki/Contributor_License_Agreement) on Wikipedia.
+You must sign a [.NET Foundation Contribution License Agreement (CLA)](https://cla.dotnetfoundation.org) before your Pull Request will be merged. This is a one-time requirement for projects in the .NET Foundation. You can read more about [Contribution License Agreements (CLA)](https://en.wikipedia.org/wiki/Contributor_License_Agreement) on Wikipedia.
 
 The agreement: [net-foundation-contribution-license-agreement.pdf](https://cla.dotnetfoundation.org/cladoc/net-foundation-contribution-license-agreement.pdf)
 
